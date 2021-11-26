@@ -23,7 +23,7 @@ const Footer = () => {
                     <Link className='m-2' to='#'>Terms of Service</Link>
                 </div>
             </div>
-            <h2 className='text-center'>&copy; All right reserved by Drone Lab</h2>
+            <h2 className='text-center'>&copy; All right reserved by Drone Lab!!</h2>
         </div>
     );
 };
